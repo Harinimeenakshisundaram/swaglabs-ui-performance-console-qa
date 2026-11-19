@@ -15,6 +15,3 @@ Key Findings Summary
 Repository Contents
 * `SwagLabs_NonFunctional_Visual_QA.xlsx` — Complete multi-tab test suite (`00_Summary`, `01_Visual_UI_Audit`, `02_Performance_SLA`, `03_Console_Exceptions`).
 * `Project2_Evidence/` — DevTools Network, Performance flame-chart, and Console stack-trace screenshots.
-
-* `SwagLabs_NonFunctional_Visual_QA.xlsx` — Complete multi-tab test suite (`00_Summary`, `01_Visual_UI_Audit`, `02_Performance_SLA`, `03_Console_Exceptions`).
-* `Project2_Evidence/` — DevTools Network, Performance flame-chart, and Console stack-trace screenshots.
